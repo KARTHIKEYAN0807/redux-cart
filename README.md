@@ -1,6 +1,8 @@
 React Redux Cart Application
 
 Overview
+![Screenshot 2024-08-22 231514](https://github.com/user-attachments/assets/5904699b-d977-4ae7-99ce-784da3344567)
+
 
 This is a React application that utilizes Redux Toolkit for state management to create a dynamic cart page. The application displays a list of products, allows users to add items to a cart, and manage the quantity of each item. The cart is displayed on the right side of the screen, and the application features a gradient background, vibrant colors, and animations for an enhanced user experience.
 
